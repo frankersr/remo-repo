@@ -1,2 +1,2 @@
 # remo-repo
-my first remo-repo.
+这是一个用于学习git的实例
